@@ -10,7 +10,7 @@ This repository contains comprehensive manual testing documentation to ensure th
 🔗 Here is the app: [HSC Formula Aid](https://play.google.com/store/apps/details?id=com.hsc_formula.aid&hl=bn)
 
 <p align="center">
-  <img src="App_Images/Capture.JPG" alt="App Main Menu" width="200"/><img src="App_Images/Capture1.JPG" alt="Physics Formulas" width="200"/><img src="App_Images/Capture2.JPG" alt="Vector Formulas" width="200"/><img src="App_Images/Capture3.JPG" alt="Solved Example" width="200"/>
+  <img src="App_Images/Capture.JPG" alt="App Main Menu" width="150"/><img src="App_Images/Capture1.JPG" alt="Physics Formulas" width="150"/><img src="App_Images/Capture2.JPG" alt="Vector Formulas" width="150"/><img src="App_Images/Capture3.JPG" alt="Solved Example" width="150"/>
 </p>
 
 **HSC Formula Aid** is an educational mobile application designed for Higher Secondary Certificate (HSC) science students.  

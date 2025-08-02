@@ -152,7 +152,7 @@ From the [Bug Report](./Bug_Report.pdf):
 
 ## 🚀 Getting Started
 
-1. Clone this repository:  
+1. **Clone this repository**:  
    ```bash
    git clone https://github.com/HimaniDas/Manual_Testing_for_HSC_Formula_Aid_Mobile_App.git
 

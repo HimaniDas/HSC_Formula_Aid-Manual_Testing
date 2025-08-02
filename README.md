@@ -153,9 +153,6 @@ From the [Bug Report](./Bug_Report.pdf):
 
 Follow these steps to review and execute the manual testing process:
 
-1. **Review Test Plans**  
-   Navigate to the [`/Test_Plans/`](./Test_Plans/) directory and review the master test plan and testing strategy.
-
 2. **Execute Test Cases**  
    Open the test cases file located at [`/Test_Cases/Test_Case.xlsx`](./Test_Cases/Test_Case.xlsx) and perform the tests as instructed.
 

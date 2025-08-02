@@ -1,11 +1,17 @@
 # 📱 Manual Testing for HSC Formula Aid Mobile App
 
-Welcome to the **Manual Testing Repository** for the **HSC Formula Aid Mobile Application**.  
+Welcome to the **Manual Testing Repository** for the **HSC Formula Aid Mobile Application**.
 This repository contains comprehensive manual testing documentation to ensure the quality, usability, and accuracy of the app.
 
 ---
 
 ## 📖 About the Application
+
+🔗 [Download HSC Formula Aid on Google Play](https://play.google.com/store/apps/details?id=com.hsc_formula.aid&hl=bn)
+![App Main Menu](./screenshots/app-main-menu.png)
+![Physics Formulas](./screenshots/physics-formulas.png)
+![Vector Formulas](./screenshots/vector-formulas.png)
+![Solved Example](./screenshots/solved-example.png)
 
 **HSC Formula Aid** is an educational mobile application designed for Higher Secondary Certificate (HSC) science students.  
 It is the **first and largest e-formula platform** in the country, offering:
@@ -18,6 +24,7 @@ It is the **first and largest e-formula platform** in the country, offering:
 - ✅ Shortcut methodology available in YouTube
 
 ---
+
 
 ## 🎯 Testing Objectives
 

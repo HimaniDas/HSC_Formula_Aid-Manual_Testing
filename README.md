@@ -7,9 +7,17 @@ This repository contains comprehensive manual testing documentation to ensure th
 
 ## 📖 About the Application
 
-🔗 Here is the app: [HSC Formula Aid](https://play.google.com/store/apps/details?id=com.hsc_formula.aid&hl=bn)
+🔗 Here is the app: [HSC Formula Aid](https://play.google.com/store/apps/details?id=com.hsc_formula.aid&hl=bn) 
 
-![App Main Menu](App_Images/Capture.JPG)![Physics Formulas](App_Images/Capture1.JPG)![Vector Formulas](App_Images/Capture2.JPG)![Solved Example](App_Images/Capture3.JPG)
+The **HSC Formula Aid** mobile application was developed by **Avishek Das**.  
+He designed and built this educational app to help Higher Secondary Certificate (HSC) students easily access formulas and examples for Physics, Chemistry, Biology, ICT and Mathematics.
+
+<p align="center">
+  <img src="App_Images/Capture.JPG" alt="App Main Menu" width="22%"/>
+  <img src="App_Images/Capture1.JPG" alt="Physics Formulas" width="22%"/>
+  <img src="App_Images/Capture2.JPG" alt="Vector Formulas" width="22%"/>
+  <img src="App_Images/Capture3.JPG" alt="Solved Example" width="22%"/>
+</p>
 
 **HSC Formula Aid** is an educational mobile application designed for Higher Secondary Certificate (HSC) science students.  
 It is the **first and largest e-formula platform** in the country, offering:
@@ -152,7 +160,7 @@ From the [Bug Report](./Bug_Report.pdf):
 
 ## 🚀 Getting Started
 
-1. Clone this repository:  
+1. **Clone this repository**:  
    ```bash
    git clone https://github.com/HimaniDas/Manual_Testing_for_HSC_Formula_Aid_Mobile_App.git
 

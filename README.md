@@ -9,7 +9,9 @@ This repository contains comprehensive manual testing documentation to ensure th
 
 🔗 Here is the app: [HSC Formula Aid](https://play.google.com/store/apps/details?id=com.hsc_formula.aid&hl=bn) 
 
-The **HSC Formula Aid** mobile application was developed by **Avishek Das**.  
+
+The **HSC Formula Aid** mobile application was developed by [Avishek Das](https://github.com/Avishekavi123)
+
 He designed and built this educational app to help Higher Secondary Certificate (HSC) students easily access formulas and examples for Physics, Chemistry, Biology, ICT and Mathematics.
 
 <p align="center">
